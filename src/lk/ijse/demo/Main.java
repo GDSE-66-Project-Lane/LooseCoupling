@@ -2,6 +2,9 @@ package lk.ijse.demo;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello");
+      Pasindu pasinduwa= new Pasindu();
+      while(true) {
+          pasinduwa.likeToChatWithSaduni();
+      }
     }
 }
