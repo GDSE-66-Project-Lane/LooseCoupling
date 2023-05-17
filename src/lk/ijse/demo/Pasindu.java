@@ -10,4 +10,9 @@ public class Pasindu {
         Wedding wedding = new Saduni();
         wedding.chatting();
     }
+
+    public  void dance(){
+        Wedding wedding = new Saduni();
+        wedding.chatting();
+    }
 }
